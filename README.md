@@ -39,3 +39,18 @@ All necessary dependencies can be installed using the `requirements.txt` file. T
 ```bash
 pip install -r requirements.txt
 ```
+
+## Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@article{Costa20261835,
+    author = {Costa, {Gabriele Nicolò} and {De Paola}, Alessandra and Drago, Salvatore and Ferraro, Pierluca and {Lo Re}, Giuseppe},
+    title = {{REFINE}: {Robust} {Evaluation} {Framework} for {IDS} under Concept Drift in Dynamic Environments},
+    year = {2026},
+    journal = {International Conference on Agents and Artificial Intelligence},
+    volume = {2},
+    pages = {1835--1846},
+    doi = {10.5220/0014447100004052},
+}
