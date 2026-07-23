@@ -54,3 +54,8 @@ If you use this repository in your research, please cite:
     pages = {1835--1846},
     doi = {10.5220/0014447100004052},
 }
+
+```
+### Extended Version
+
+> **Note:** This branch contains the oextended version of REFINE framework, available in the [`main`](https://github.com/gabrielecosta/E-REFINE/tree/refine-cdsg) branch.
