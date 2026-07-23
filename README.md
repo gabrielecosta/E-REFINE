@@ -54,3 +54,9 @@ If you use this repository in your research, please cite:
     pages = {1835--1846},
     doi = {10.5220/0014447100004052},
 }
+```
+### Extended Version
+
+> **Note:** This branch contains the original CDSG implementation associated with the REFINE framework. 
+
+An extended and updated version of the implementation is available in the [`main`](https://github.com/gabrielecosta/E-REFINE/tree/main) branch.
