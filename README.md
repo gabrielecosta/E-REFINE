@@ -1,6 +1,5 @@
 # E-REFINE
-
-This repository contains the implementation of the **Concept Drift Stream Generator (CDSG)** from the **REFINE framework**, available in the [`refine-cdsg`](https://github.com/gabrielecosta/E-REFINE/tree/refine-cdsg) branch.
+This repository contains the implementation of the **E-REFINE** framework, an exntended version of the previous **REFINE** framework (available in the [`refine-cdsg`](https://github.com/gabrielecosta/E-REFINE/tree/refine-cdsg) branch).
 
 ## Overview
 
@@ -57,7 +56,7 @@ All necessary dependencies can be installed using the `requirements.txt` file. T
 pip install -r requirements.txt
 ```
 
-## Citation
+<!-- ## Citation
 
 If you use this repository in your research, please cite REFINE framework:
 
@@ -71,4 +70,4 @@ If you use this repository in your research, please cite REFINE framework:
     pages = {1835--1846},
     doi = {10.5220/0014447100004052},
 }
-```
+``` -->
