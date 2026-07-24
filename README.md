@@ -4,6 +4,7 @@ This repository contains the implementation of the **E-REFINE** framework, an ex
 ## Overview
 
 E-REFINE is a modular framework designed to address the challenges of evaluating and understanding the reasoning of machine learning-based threat detection systems (TDSs) under concept drift, by combining realistic stream generation, derived from real-world datasets, with configurable drift characteristics and a robust, reproducible evaluation pipeline. The framework takes three inputs: a source dataset, the ML-based threat detection system to be evaluated, and a set of user-defined parameters governing the experimental setup. The overall architecture of the framework is illustrated in the figure below. 
+
 ![E-REFINE framework](E_refine_framework.jpg)
 
 

@@ -17,7 +17,7 @@ starting from the same already-generated concept dataset.
 
 Expected project structure:
 
-project/
+main_folder/
 │
 ├── main.py
 ├── cdsg.py
